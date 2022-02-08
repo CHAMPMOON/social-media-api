@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+.env
+Dockerfile
+.dockerignore
+.gitignore
+Procfile
